@@ -1,4 +1,4 @@
 # rubyclubtest
 git入門用リポジトリ
-yutayutayuta
+yuta
 kitani
